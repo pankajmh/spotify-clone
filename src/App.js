@@ -40,7 +40,7 @@ function App() {
           playlists: playlists,
         });
       });
-      spotify.getPlaylist().then((res) =>
+      spotify.getPlaylist('1eDNTC8SNPNQ4JoWnaeVcz').then((res) =>
         dispatch({
           type: 'SET_HIP_HOP',
           HIP_HOP: res,
