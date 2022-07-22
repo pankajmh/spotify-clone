@@ -1,0 +1,19 @@
+/* .rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+} */
+
+/* .rating {
+    margin-left: 10px;
+} */
+
+.star {
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+input[type="radio"] {
+    display: none;
+}

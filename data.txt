@@ -1,0 +1,5 @@
+https://developer.spotify.com/dashboard/applications
+https://developer.spotify.com/dashboard/applications/d578b3f03081452ca4aa99d081d78b73
+Client ID - d578b3f03081452ca4aa99d081d78b73
+
+rfce - snipit - will create function

@@ -1,0 +1,20 @@
+.login {
+    /* this will equally spaces center */
+    display: grid; 
+    place-items: center;
+    height: 100vh; /* 100 view heigh means take out entire hieght of page */
+    background-color: black;
+}
+
+.login > img {
+    width: 100%;
+}
+
+.login > a {
+    padding: 20px;
+    border-radius: 99px; /* this will round the a tag*/
+    background-color: #1db954;
+    font-weight: 800;
+    color: white;
+    text-decoration: none; /* this will not show line under a tag*/
+}
